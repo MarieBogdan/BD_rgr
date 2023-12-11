@@ -6,4 +6,4 @@
 
 ![image](https://github.com/MarieBogdan/BD_rgr/assets/145605648/b1f6fbb3-3b4b-493e-9a0b-63bd55df3656)
 
-[Звіт](https://drive.google.com/drive/home?hl=ru)
+[Звіт]([https://drive.google.com/drive/home?hl=ru](https://drive.google.com/file/d/1fBg_eCDXjH7XEYOxE-qQg70zVN_utHrp/view?usp=drive_link)https://drive.google.com/file/d/1fBg_eCDXjH7XEYOxE-qQg70zVN_utHrp/view?usp=drive_link)
